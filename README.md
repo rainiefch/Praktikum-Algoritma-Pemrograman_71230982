@@ -1,2 +1,2 @@
-File-file tugas ada dalam tiap folder latihan/n
-Kecuali tugas-tugas latihan 1 masih diluar folder
+File-file tugas ada dalam tiap folder latihan, 
+kecuali tugas-tugas latihan 1 masih diluar folder
