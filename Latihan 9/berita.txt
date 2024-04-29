@@ -1,0 +1,1 @@
+Cari artikel berita, simpan dalam bentuk .txt. Pecah berita jadi kata-kata dengan split(), dan disimpan dalam list kata.
